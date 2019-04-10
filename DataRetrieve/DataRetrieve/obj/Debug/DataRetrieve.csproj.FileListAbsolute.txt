@@ -1,0 +1,13 @@
+D:\05-Church\85-ParishRegistry\Samples\DataRetrieve\DataRetrieve\bin\Debug\Database1.mdf
+D:\05-Church\85-ParishRegistry\Samples\DataRetrieve\DataRetrieve\bin\Debug\Database1_log.ldf
+D:\05-Church\85-ParishRegistry\Samples\DataRetrieve\DataRetrieve\bin\Debug\DataRetrieve.exe.config
+D:\05-Church\85-ParishRegistry\Samples\DataRetrieve\DataRetrieve\bin\Debug\DataRetrieve.exe
+D:\05-Church\85-ParishRegistry\Samples\DataRetrieve\DataRetrieve\bin\Debug\DataRetrieve.pdb
+D:\05-Church\85-ParishRegistry\Samples\DataRetrieve\DataRetrieve\obj\Debug\DataRetrieve.csprojAssemblyReference.cache
+D:\05-Church\85-ParishRegistry\Samples\DataRetrieve\DataRetrieve\obj\Debug\DataRetrieve.Properties.Resources.resources
+D:\05-Church\85-ParishRegistry\Samples\DataRetrieve\DataRetrieve\obj\Debug\DataRetrieve.csproj.GenerateResource.cache
+D:\05-Church\85-ParishRegistry\Samples\DataRetrieve\DataRetrieve\obj\Debug\DataRetrieve.csproj.CoreCompileInputs.cache
+D:\05-Church\85-ParishRegistry\Samples\DataRetrieve\DataRetrieve\obj\Debug\DataRetrieve.exe
+D:\05-Church\85-ParishRegistry\Samples\DataRetrieve\DataRetrieve\obj\Debug\DataRetrieve.pdb
+D:\05-Church\85-ParishRegistry\Samples\DataRetrieve\DataRetrieve\obj\Debug\DataRetrieve.StudentLookUp.resources
+D:\05-Church\85-ParishRegistry\Samples\DataRetrieve\DataRetrieve\obj\Debug\WindowsFormsApp1.frmKaren.resources
